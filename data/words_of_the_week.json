@@ -1,0 +1,108 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "theme": "Science",
+      "words": [
+        {
+          "word": "photosynthesis",
+          "hint": "How plants make their own food using sunlight"
+        },
+        {
+          "word": "metamorphosis",
+          "hint": "The big change a caterpillar goes through to become a butterfly"
+        },
+        {
+          "word": "hypothesis",
+          "hint": "A smart guess you test with an experiment"
+        },
+        {
+          "word": "transparent",
+          "hint": "So clear you can see right through it"
+        },
+        {
+          "word": "fossil",
+          "hint": "The hardened remains of an ancient plant or animal"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "theme": "Social Studies",
+      "words": [
+        {
+          "word": "constitution",
+          "hint": "The set of rules that runs a country"
+        },
+        {
+          "word": "government",
+          "hint": "The group of people in charge of running a city or country"
+        },
+        {
+          "word": "territory",
+          "hint": "An area of land that belongs to someone"
+        },
+        {
+          "word": "ancient",
+          "hint": "Very, very old — from a long time ago"
+        },
+        {
+          "word": "evidence",
+          "hint": "Facts or clues that show whether something is true"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "theme": "Maths & Measurement",
+      "words": [
+        {
+          "word": "circumference",
+          "hint": "The distance all the way around the outside of a circle"
+        },
+        {
+          "word": "sufficient",
+          "hint": "Enough — just the right amount"
+        },
+        {
+          "word": "obvious",
+          "hint": "Easy to see or understand straight away"
+        },
+        {
+          "word": "exaggerate",
+          "hint": "To make something sound bigger or more exciting than it really is"
+        },
+        {
+          "word": "necessary",
+          "hint": "Something you cannot do without"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "theme": "Feelings & Character",
+      "words": [
+        {
+          "word": "persistent",
+          "hint": "Keeps trying and never gives up"
+        },
+        {
+          "word": "reluctant",
+          "hint": "Not really wanting to do something, even if you do it"
+        },
+        {
+          "word": "magnificent",
+          "hint": "So wonderful it takes your breath away"
+        },
+        {
+          "word": "suspicious",
+          "hint": "A feeling that something is not quite right"
+        },
+        {
+          "word": "collaborate",
+          "hint": "To work together with other people"
+        }
+      ]
+    }
+  ]
+}
